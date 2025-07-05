@@ -1,4 +1,4 @@
-# skillcraft-
+# skillcraft technology-
 data science project
 ✅ task1/ – Sales Data Distribution Visualization
 Objective: Visualize the distribution of categorical and continuous variables using plots.
